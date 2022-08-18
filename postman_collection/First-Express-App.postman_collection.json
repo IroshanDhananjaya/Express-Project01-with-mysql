@@ -15,7 +15,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"id\":\"CID002\",\n    \"name\":\"Ravindu Lakshan\",\n    \"address\":\"Kaluthara\"\n}",
+							"raw": "{\n    \"id\":\"CID002\",\n    \"name\":\"Kamal Perera\",\n    \"address\":\"Kaluthara\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -44,7 +44,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"id\":\"CID002\",\n    \"name\":\"Chamodh Pasindu\",\n    \"address\":\"Kwsbawa\"\n}",
+							"raw": "{\n    \"id\":\"CID002\",\n    \"name\":\"Iroshan Dhananjaya\",\n    \"address\":\"Kwsbawa\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
